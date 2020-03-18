@@ -1,2 +1,3 @@
-# hello-world
-APTA Repo
+# HELLO WORLD
+txt = "Hello World" [::-1]
+print(txt)
